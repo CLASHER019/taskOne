@@ -6,5 +6,7 @@ use Illuminate\Http\Request;
 
 class ProductController extends Controller
 {
-    function index(){}
+    function index(){
+        echo 'ss';
+    }
 }
